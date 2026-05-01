@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Chantal 👋
 
-<!--
-**Csandal17/Csandal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Customer Success & Technical Support professional transitioning into AI-native SaaS.
+Based in London.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently completing Codecademy's 12-week Agentic AI Applications Bootcamp —
+working with Python, FastAPI, LangGraph, RAG pipelines, and the Anthropic API.
+
+## Background
+
+10+ years of customer-facing experience across high-volume support (Zendesk,
+50+ tickets/day), payment escalations, and cross-functional engineering feedback
+at Papier, goop, and the National Portrait Gallery.
+
+## Certifications
+
+- Harvey Academy — AI for Legal Basics
+- Anthropic — API & Claude Fundamentals  
+- Google Cybersecurity Professional Certificate
+- MIT — Trustworthy AI
+- Postman API Fundamentals
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/chantalsandal)
