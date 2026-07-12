@@ -1,6 +1,6 @@
 # Hi, I'm Chantal 👋
 
-Customer Success & Technical Support professional transitioning into AI-native SaaS.
+Technical Support professional transitioning into AI-native SaaS.
 Based in London.
 
 ## What I'm building
