@@ -8,10 +8,10 @@ I spent 10+ years in customer-facing roles learning what people actually need. N
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Lagomy](https://github.com/Csandal17/lagomy)** | Open dataset of UK supplement labels, served over a FastAPI endpoint with provenance on every statement. [API →](https://api.lagomy.com/docs) · [Dataset →](https://huggingface.co/datasets/Csandal17/lagomy-uk-supplements) | Python, FastAPI, CrewAI, Claude Vision |
+| **[Lagomy](https://github.com/Csandal17/lagomy)** | Open dataset of UK supplement labels, served over a FastAPI endpoint with provenance on every statement, plus an eval suite testing whether models hold a strict no-advice line. [API →](https://api.lagomy.com/docs) · [Dataset →](https://huggingface.co/datasets/Csandal17/lagomy-uk-supplements) | Python, FastAPI, CrewAI, Claude Vision |
 | **[EndoHer](https://github.com/Csandal17/endolog)** 🏆 | AI health advocate for endometriosis — symptom timeline, clinical mapping, GP-ready record. [Live →](https://endoher.dev) | React/TS, Supabase, Claude |
 | **[Maai](https://github.com/Csandal17/maai)** | Multilingual three-agent pipeline turning lived symptom language into clinician-ready records. [Demo →](https://huggingface.co/spaces/Csandal17/maai) | Python, LangGraph, Claude |
-| **[Sērēnum](https://github.com/Csandal17/serenum-app)** | Weather-aware skincare agent with evidence-cited advice and spoken briefs. [Demo →](https://huggingface.co/spaces/Csandal17/serenum) | Python, Chainlit, ElevenLabs |
+| **[Sērēnum](https://github.com/Csandal17/serenum-app)** | Weather-aware skincare agent with evidence-cited advice and spoken briefs. Also built as an MCP server and as a scheduled Claude Managed Agent that writes a daily brief. [Demo →](https://huggingface.co/spaces/Csandal17/serenum) | Python, Chainlit, ElevenLabs, MCP, Claude Managed Agents |
 
 A pattern you might notice: AI for health advocacy — tools that never diagnose, but help people be *heard* properly.
 
