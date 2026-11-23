@@ -2,7 +2,7 @@
 
 I spent 10+ years in customer-facing roles learning what people actually need. Now I build AI tools that deliver it — and I'm heading into **Technical Support / Solutions Engineering at AI-native companies**.
 
-📍 London · 🏆 "Smoothest Demo" winner, ZOE Women in Tech Hackathon 2026
+📍 London · 🏆 "Smoothest Demo" winner, ZOE Women in Tech Hackathon 2026 · 🏆 Best Project Built with ElevenLabs, Moonfire Build Night 2026
 
 ## What I've built
 
@@ -12,8 +12,9 @@ I spent 10+ years in customer-facing roles learning what people actually need. N
 | **[EndoHer](https://github.com/Csandal17/endolog)** 🏆 | AI health advocate for endometriosis — symptom timeline, clinical mapping, GP-ready record. [Live →](https://endoher.dev) | React/TS, Supabase, Claude |
 | **[Maai](https://github.com/Csandal17/maai)** | Multilingual three-agent pipeline turning lived symptom language into clinician-ready records. [Demo →](https://huggingface.co/spaces/Csandal17/maai) | Python, LangGraph, Claude |
 | **[Sērēnum](https://github.com/Csandal17/serenum-app)** | Weather-aware skincare agent with evidence-cited advice and spoken briefs. Also built as an MCP server and as a scheduled Claude Managed Agent that writes a daily brief. [Demo →](https://huggingface.co/spaces/Csandal17/serenum) | Python, Chainlit, ElevenLabs, MCP, Claude Managed Agents |
+| **[Build Night Crew](https://github.com/Csandal17/build-night-crew)** 🏆 | A crew of AI agents that check each other's work: a hard budget on every run with live cost per agent, an always-on watcher, Gemini as an independent second reviewer, and two-voice spoken briefings. Best Project Built with ElevenLabs, Moonfire Build Night 2026. | Python, Claude API, Gemini, ElevenLabs, SQLite |
 
-A pattern you might notice: AI for health advocacy — tools that never diagnose, but help people be *heard* properly.
+Most of these share a pattern: AI for health advocacy — tools that never diagnose, but help people be *heard* properly.
 
 ## How I got here
 
