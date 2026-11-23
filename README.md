@@ -14,7 +14,7 @@ I spent 10+ years in customer-facing roles learning what people actually need. N
 | **[Sērēnum](https://github.com/Csandal17/serenum-app)** | Weather-aware skincare agent with evidence-cited advice and spoken briefs. Also built as an MCP server and as a scheduled Claude Managed Agent that writes a daily brief. [Demo →](https://huggingface.co/spaces/Csandal17/serenum) | Python, Chainlit, ElevenLabs, MCP, Claude Managed Agents |
 | **[Build Night Crew](https://github.com/Csandal17/build-night-crew)** 🏆 | A crew of AI agents that check each other's work: a hard budget on every run with live cost per agent, an always-on watcher, Gemini as an independent second reviewer, and two-voice spoken briefings. Best Project Built with ElevenLabs, Moonfire Build Night 2026. | Python, Claude API, Gemini, ElevenLabs, SQLite |
 
-Most of these share a pattern: AI for health advocacy: tools that never diagnose, but help people be *heard* properly.
+Most of these share a pattern: health and wellness tools that cite their sources and never diagnose or advise.
 
 ## How I got here
 
